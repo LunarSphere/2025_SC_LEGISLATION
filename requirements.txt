@@ -1,0 +1,7 @@
+matplotlib
+pandas
+numpy==1.26.4
+nltk
+inflect
+scikit-learn-extra
+xgboost
