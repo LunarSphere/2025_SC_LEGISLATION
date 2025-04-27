@@ -5,3 +5,9 @@ nltk
 inflect
 scikit-learn-extra
 xgboost
+weasyprint==52.5
+pymupdf
+byaldi
+qwen_vl_utils
+torch==2.1.2
+torchvision==0.16.2
